@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# Nicholas Brunsink CSC 475 - Robotics Lab_01
+
 # import ROS for developing the node
 import rospy
 
